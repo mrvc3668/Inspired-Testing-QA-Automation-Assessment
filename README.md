@@ -20,6 +20,7 @@
 - test-output: contains test reports
 
 # To run/execute the tests:
+- Make sure to build the project first by right clicking on the root then select Maven then update project
 - Make sure chrome browser v86 is installed
 - Open the project using Eclipse IDE
 - Right click on the root directory, then select run as > then choose 'TestNG test'
